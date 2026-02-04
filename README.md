@@ -23,4 +23,4 @@ prepare for entry-level roles in the tech industry.
 
 ## Contact
 - LinkedIn: (will add soon)
-- GitHub: https://github.com/<your-username>
+- GitHub: GitHub: https://github.com/sahilkhetal0401
