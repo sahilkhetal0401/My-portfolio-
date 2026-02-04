@@ -18,8 +18,12 @@ prepare for entry-level roles in the tech industry.
 - Git & GitHub
 
 ## Projects
-• Coming soon 🎉 
-(Actively learning and adding projects)
+### Pokedex V2
+- Built with HTML, CSS & JavaScript
+- Real-time search using PokéAPI
+- [Live Demo](https://codepen.io/Sahil-Khetal/details/XJKYOQr)
+- [Source Code](https://github.com/yourusername/pokedex-v2)
+
 
 ## Contact
 - LinkedIn: (will add soon)
