@@ -1,6 +1,6 @@
-# My-portfolio-
+⭐ My-portfolio-
 #My learning projects and practice code
-# Sahil Khetal
+⭐ Sahil Khetal
 
 🎓 BCA Student | Aspiring Software & Data Professional  
 📍 Chennai, India
@@ -17,7 +17,7 @@ prepare for entry-level roles in the tech industry.
 - Git & GitHub
 
 ## Projects
-- Coming soon 🚧  
+• Coming soon 🎉 
 (Actively learning and adding projects)
 
 ## Contact
