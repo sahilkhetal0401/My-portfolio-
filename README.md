@@ -22,8 +22,6 @@ prepare for entry-level roles in the tech industry.
 - Built with HTML, CSS & JavaScript
 - Real-time search using PokéAPI
 - [Live Demo](https://codepen.io/Sahil-Khetal/details/XJKYOQr)
-- [Source Code](https://github.com/yourusername/pokedex-v2)
-
 
 ## Contact
 - LinkedIn: (will add soon)
